@@ -10,9 +10,9 @@ A personal brand website for Minji Kim. Includes a portfolio, blog, and AI power
 - **Deployment:** Vercel
 
 ## Repo Structure
-- Parent repo: `minji`
-- Frontend repo: `minji-frontend`
-- Backend repo: `minji-backend`
+- Parent repo: `minji-web`
+- Frontend repo: `minji-web-frontend`
+- Backend repo: `minji-web-backend`
 
 ## What the Site Includes (Tentative V1)
 - Who I am and what I do
